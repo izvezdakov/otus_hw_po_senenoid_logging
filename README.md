@@ -1,0 +1,1 @@
+# otus_hw_po_senenoid_logging
