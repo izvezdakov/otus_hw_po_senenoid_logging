@@ -1,0 +1,5 @@
+MainPage - DEBUG - Find element by locator ('css selector', '#cart-total')
+MainPage - DEBUG - Find element by locator ('xpath', "//*[@class='btn btn-link dropdown-toggle']")
+MainPage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="950a62bcaae0827a6cf5f8ac574a1a2f", element="b94d2932-786d-410e-8f1b-b22ff2cfe517")>
+MainPage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="950a62bcaae0827a6cf5f8ac574a1a2f", element="d60e2a89-7b3e-47c0-b205-9eecf8e28b07")>
+MainPage - DEBUG - Find element by locator ('css selector', '#cart-total')

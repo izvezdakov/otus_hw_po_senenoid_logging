@@ -1,0 +1,23 @@
+RegisterAccountPage - DEBUG - Find element by locator ('css selector', '#input-firstname')
+RegisterAccountPage - INFO - Input NEW_USER_FIRSTNAME in <selenium.webdriver.remote.webelement.WebElement (session="8390149fc1660eee2a2a9a213d575f4d", element="4772ab12-23ed-4006-acb8-9d251896b31e")>
+RegisterAccountPage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="8390149fc1660eee2a2a9a213d575f4d", element="4772ab12-23ed-4006-acb8-9d251896b31e")>
+RegisterAccountPage - DEBUG - Find element by locator ('css selector', '#input-lastname')
+RegisterAccountPage - INFO - Input NEW_USER_LASTNAME in <selenium.webdriver.remote.webelement.WebElement (session="8390149fc1660eee2a2a9a213d575f4d", element="85fc73f1-83a1-4ece-b3da-4aa801f47bb8")>
+RegisterAccountPage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="8390149fc1660eee2a2a9a213d575f4d", element="85fc73f1-83a1-4ece-b3da-4aa801f47bb8")>
+RegisterAccountPage - DEBUG - Find element by locator ('css selector', '#input-email')
+RegisterAccountPage - INFO - Input 768952566980654486@email.enmil in <selenium.webdriver.remote.webelement.WebElement (session="8390149fc1660eee2a2a9a213d575f4d", element="2c453071-447c-4bda-8d11-f6e27b66b3ea")>
+RegisterAccountPage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="8390149fc1660eee2a2a9a213d575f4d", element="2c453071-447c-4bda-8d11-f6e27b66b3ea")>
+RegisterAccountPage - DEBUG - Find element by locator ('css selector', '#input-telephone')
+RegisterAccountPage - INFO - Input 1234 in <selenium.webdriver.remote.webelement.WebElement (session="8390149fc1660eee2a2a9a213d575f4d", element="32644167-94b2-4008-ac44-e138a379a22d")>
+RegisterAccountPage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="8390149fc1660eee2a2a9a213d575f4d", element="32644167-94b2-4008-ac44-e138a379a22d")>
+RegisterAccountPage - DEBUG - Find element by locator ('css selector', '#input-password')
+RegisterAccountPage - INFO - Input NEW_USER_PASSWORD in <selenium.webdriver.remote.webelement.WebElement (session="8390149fc1660eee2a2a9a213d575f4d", element="768c2aff-ee70-4d3d-ba86-46af3cfb264c")>
+RegisterAccountPage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="8390149fc1660eee2a2a9a213d575f4d", element="768c2aff-ee70-4d3d-ba86-46af3cfb264c")>
+RegisterAccountPage - DEBUG - Find element by locator ('css selector', '#input-confirm')
+RegisterAccountPage - INFO - Input NEW_USER_PASSWORD in <selenium.webdriver.remote.webelement.WebElement (session="8390149fc1660eee2a2a9a213d575f4d", element="58e14c27-74b7-44fe-b19f-38f7abf4be36")>
+RegisterAccountPage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="8390149fc1660eee2a2a9a213d575f4d", element="58e14c27-74b7-44fe-b19f-38f7abf4be36")>
+RegisterAccountPage - DEBUG - Find element by locator ('css selector', 'input[type=checkbox]')
+RegisterAccountPage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="8390149fc1660eee2a2a9a213d575f4d", element="a5791ec8-8fcc-4211-ad92-d8e97929e1ec")>
+RegisterAccountPage - DEBUG - Find element by locator ('xpath', "//*[@class='btn btn-primary']")
+RegisterAccountPage - INFO - Clicking element: <selenium.webdriver.remote.webelement.WebElement (session="8390149fc1660eee2a2a9a213d575f4d", element="cea07982-0a96-4a88-948f-32844278c658")>
+RegisterAccountPage - DEBUG - Find element by locator ('xpath', "//*[@class='col-sm-9']")
